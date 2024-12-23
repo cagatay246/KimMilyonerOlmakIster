@@ -1,0 +1,14 @@
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\bin\Debug\net8.0\KimMilyoneyOlmakIster.exe
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\bin\Debug\net8.0\KimMilyoneyOlmakIster.deps.json
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\bin\Debug\net8.0\KimMilyoneyOlmakIster.runtimeconfig.json
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\bin\Debug\net8.0\KimMilyoneyOlmakIster.dll
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\bin\Debug\net8.0\KimMilyoneyOlmakIster.pdb
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.AssemblyInfoInputs.cache
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.AssemblyInfo.cs
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.dll
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\refint\KimMilyoneyOlmakIster.dll
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.pdb
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\KimMilyoneyOlmakIster.genruntimeconfig.cache
+C:\Users\cagat\source\repos\KimMilyoneyOlmakIster\KimMilyoneyOlmakIster\obj\Debug\net8.0\ref\KimMilyoneyOlmakIster.dll
